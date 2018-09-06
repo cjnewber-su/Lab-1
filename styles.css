@@ -1,0 +1,57 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    height: 60px;
+    line-height: 60px;
+    padding: 20px;
+    background-color: blueviolet;
+}
+
+h1{
+    float: left;
+    margin: 0px;
+}
+
+ul{
+    float: right;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+li{
+    float: left;
+    margin-left: 20px;
+}
+
+a{
+   text-decoration: none; 
+   color: red;
+}
+
+.content{
+    width: 70%;
+    background-color: lightgray;
+    min-height: 500px;
+    float:left;
+}
+
+.sidebar{
+    width: 30%;
+    background-color:darkslategrey;
+    color: white;
+    min-height: 500px;
+    float: left;
+}
+
+p{
+    margin:20px;
+}
